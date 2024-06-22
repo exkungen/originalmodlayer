@@ -3,8 +3,7 @@
     {
       "Name": "Chora_AAS_v1_USA_INS_Ori",
       "rawName": "Chora_AAS_v1_USA_INS_Ori",
-      "levelName": "Chora_AAS_v1_USA_INS_Ori",
-      "fName": "Chora_AAS_v1_USA_INS_Ori",
+      "levelName": "Chora",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -41,8 +40,7 @@
     {
       "Name": "Chora_AAS_v3_USMC_INS_Ori",
       "rawName": "Chora_AAS_v3_USMC_INS_Ori",
-      "levelName": "Chora_AAS_v3_USMC_INS_Ori",
-      "fName": "Chora_AAS_v3_USMC_INS_Ori",
+      "levelName": "Chora",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -79,8 +77,7 @@
     {
       "Name": "Chora_SKRIM_v1_USA_INS_Ori",
       "rawName": "Chora_SKRIM_v1_USA_INS_Ori",
-      "levelName": "Chora_SKRIM_v1_USA_INS_Ori",
-      "fName": "Chora_SKRIM_v1_USA_INS_Ori",
+      "levelName": "Chora",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -117,8 +114,7 @@
     {
       "Name": "Narva_AAS_v2_BAF_VDV_Ori",
       "rawName": "Narva_AAS_v2_BAF_VDV_Ori",
-      "levelName": "Narva_AAS_v2_BAF_VDV_Ori",
-      "fName": "Narva_AAS_v2_BAF_VDV_Ori",
+      "levelName": "Narva",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -155,8 +151,7 @@
     {
       "Name": "Narva_RAAS_v1_BAF_RGF_Ori",
       "rawName": "Narva_RAAS_v1_BAF_RGF_Ori",
-      "levelName": "Narva_RAAS_v1_BAF_RGF_Ori",
-      "fName": "Narva_RAAS_v1_BAF_RGF_Ori",
+      "levelName": "Narva",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -193,8 +188,7 @@
     {
       "Name": "Gorodok_AAS_v1_USA_RGF_Ori",
       "rawName": "Gorodok_AAS_v1_USA_RGF_Ori",
-      "levelName": "Gorodok_AAS_v1_USA_RGF_Ori",
-      "fName": "Gorodok_AAS_v1_USA_RGF_Ori",
+      "levelName": "Gorodok",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -231,8 +225,7 @@
     {
       "Name": "Gorodok_RAAS_v2_USMC_VDV_Ori",
       "rawName": "Gorodok_RAAS_v2_USMC_VDV_Ori",
-      "levelName": "Gorodok_RAAS_v2_USMC_VDV_Ori",
-      "fName": "Gorodok_RAAS_v2_USMC_VDV_Ori",
+      "levelName": "Gorodok",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -269,8 +262,7 @@
     {
       "Name": "Mutaha_AAS_v1_USA_RGF_Ori",
       "rawName": "Mutaha_AAS_v1_USA_RGF_Ori",
-      "levelName": "Mutaha_AAS_v1_USA_RGF_Ori",
-      "fName": "Mutaha_AAS_v1_USA_RGF_Ori",
+      "levelName": "Mutaha",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -307,8 +299,7 @@
     {
       "Name": "Mutaha_AAS_v2_RGF_INS_Ori",
       "rawName": "Mutaha_AAS_v2_RGF_INS_Ori",
-      "levelName": "Mutaha_AAS_v2_RGF_INS_Ori",
-      "fName": "Mutaha_AAS_v2_RGF_INS_Ori",
+      "levelName": "Mutaha",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -345,8 +336,7 @@
     {
       "Name": "Mutaha_RAAS_v2_RGF_INS_Ori",
       "rawName": "Mutaha_RAAS_v2_RGF_INS_Ori",
-      "levelName": "Mutaha_RAAS_v2_RGF_INS_Ori",
-      "fName": "Mutaha_RAAS_v2_RGF_INS_Ori",
+      "levelName": "Mutaha",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -383,8 +373,7 @@
     {
       "Name": "Logar_AAS_v1_USMC_INS_Ori",
       "rawName": "Logar_AAS_v1_USMC_INS_Ori",
-      "levelName": "Logar_AAS_v1_USMC_INS_Ori",
-      "fName": "Logar_AAS_v1_USMC_INS_Ori",
+      "levelName": "Logar",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -421,8 +410,7 @@
     {
       "Name": "Logar_SKIRM_v1_USMC_INS_Ori",
       "rawName": "Logar_SKIRM_v1_USMC_INS_Ori",
-      "levelName": "Logar_SKIRM_v1_USMC_INS_Ori",
-      "fName": "Logar_SKIRM_v1_USMC_INS_Ori",
+      "levelName": "Logar",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -459,8 +447,7 @@
     {
       "Name": "Yehorivka_AAS_v2_VDV_IMF_Ori",
       "rawName": "Yehorivka_AAS_v2_VDV_IMF_Ori",
-      "levelName": "Yehorivka_AAS_v2_VDV_IMF_Ori",
-      "fName": "Yehorivka_AAS_v2_VDV_IMF_Ori",
+      "levelName": "Yehorivka",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -497,8 +484,7 @@
     {
       "Name": "Yehorivka_RAAS_v2_VDV_IMF_Ori",
       "rawName": "Yehorivka_RAAS_v2_VDV_IMF_Ori",
-      "levelName": "Yehorivka_RAAS_v2_VDV_IMF_Ori",
-      "fName": "Yehorivka_RAAS_v2_VDV_IMF_Ori",
+      "levelName": "Yehorivka",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -535,8 +521,7 @@
     {
       "Name": "Yehorivka_SKIRM_v2_VDV_IMF_Ori",
       "rawName": "Yehorivka_SKIRM_v2_VDV_IMF_Ori",
-      "levelName": "Yehorivka_SKIRM_v2_VDV_IMF_Ori",
-      "fName": "Yehorivka_SKIRM_v2_VDV_IMF_Ori",
+      "levelName": "Yehorivka",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -573,8 +558,7 @@
     {
       "Name": "Kokan_AAS_v2_RGF_INS_Ori",
       "rawName": "Kokan_AAS_v2_RGF_INS_Ori",
-      "levelName": "Kokan_AAS_v2_RGF_INS_Ori",
-      "fName": "Kokan_AAS_v2_RGF_INS_Ori",
+      "levelName": "Kokan",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -611,8 +595,7 @@
     {
       "Name": "Kokan_RAAS_v2_RGF_INS_Ori",
       "rawName": "Kokan_RAAS_v2_RGF_INS_Ori",
-      "levelName": "Kokan_RAAS_v2_RGF_INS_Ori",
-      "fName": "Kokan_RAAS_v2_RGF_INS_Ori",
+      "levelName": "Kokan",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -649,8 +632,7 @@
     {
       "Name": "Manicouagan_AAS_v1_CAF_RGF_Ori",
       "rawName": "Manicouagan_AAS_v1_CAF_RGF_Ori",
-      "levelName": "Manicouagan_AAS_v1_CAF_RGF_Ori",
-      "fName": "Manicouagan_AAS_v1_CAF_RGF_Ori",
+      "levelName": "Manicouagan",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -687,8 +669,7 @@
     {
       "Name": "Manicouagan_AAS_v3_USMC_RGF_Ori",
       "rawName": "Manicouagan_AAS_v3_USMC_RGF_Ori",
-      "levelName": "Manicouagan_AAS_v3_USMC_RGF_Ori",
-      "fName": "Manicouagan_AAS_v3_USMC_RGF_Ori",
+      "levelName": "Manicouagan",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -725,8 +706,7 @@
     {
       "Name": "Manicouagan_RAAS_v2_USA_VDV_Ori",
       "rawName": "Manicouagan_RAAS_v2_USA_VDV_Ori",
-      "levelName": "Manicouagan_RAAS_v2_USA_VDV_Ori",
-      "fName": "Manicouagan_RAAS_v2_USA_VDV_Ori",
+      "levelName": "Manicouagan",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -763,8 +743,7 @@
     {
       "Name": "Manicouagan_SKIRM_v2_USA_VDV_Ori",
       "rawName": "Manicouagan_SKIRM_v2_USA_VDV_Ori",
-      "levelName": "Manicouagan_SKIRM_v2_USA_VDV_Ori",
-      "fName": "Manicouagan_SKIRM_v2_USA_VDV_Ori",
+      "levelName": "Manicouagan",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -801,8 +780,7 @@
     {
       "Name": "Skorpo_RAAS_v1_BAF_RGF_Ori",
       "rawName": "Skorpo_RAAS_v1_BAF_RGF_Ori",
-      "levelName": "Skorpo_RAAS_v1_BAF_RGF_Ori",
-      "fName": "Skorpo_RAAS_v1_BAF_RGF_Ori",
+      "levelName": "Skorpo",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -839,8 +817,7 @@
     {
       "Name": "Harju_AAS_v1_USA_RGF_Ori",
       "rawName": "Harju_AAS_v1_USA_RGF_Ori",
-      "levelName": "Harju_AAS_v1_USA_RGF_Ori",
-      "fName": "Harju_AAS_v1_USA_RGF_Ori",
+      "levelName": "Harju",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -877,8 +854,7 @@
     {
       "Name": "Harju_AAS_v3_USMC_RGF_Ori",
       "rawName": "Harju_AAS_v3_USMC_RGF_Ori",
-      "levelName": "Harju_AAS_v3_USMC_RGF_Ori",
-      "fName": "Harju_AAS_v3_USMC_RGF_Ori",
+      "levelName": "Harju",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -915,8 +891,7 @@
     {
       "Name": "Harju_RAAS_v2_BAF_VDV_Ori",
       "rawName": "Harju_RAAS_v2_BAF_VDV_Ori",
-      "levelName": "Harju_RAAS_v2_BAF_VDV_Ori",
-      "fName": "Harju_RAAS_v2_BAF_VDV_Ori",
+      "levelName": "Harju",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -953,8 +928,7 @@
     {
       "Name": "Harju_SKIRM_v2_BAF_VDV_Ori",
       "rawName": "Harju_SKIRM_v2_BAF_VDV_Ori",
-      "levelName": "Harju_SKIRM_v2_BAF_VDV_Ori",
-      "fName": "Harju_SKIRM_v2_BAF_VDV_Ori",
+      "levelName": "Harju",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -991,8 +965,7 @@
     {
       "Name": "Mestia_AAS_v2_USA_RGF_Ori",
       "rawName": "Mestia_AAS_v2_USA_RGF_Ori",
-      "levelName": "Mestia_AAS_v2_USA_RGF_Ori",
-      "fName": "Mestia_AAS_v2_USA_RGF_Ori",
+      "levelName": "Mestia",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -1029,8 +1002,7 @@
     {
       "Name": "Mestia_SKIRM_v1_RGF_IMF_Ori",
       "rawName": "Mestia_SKIRM_v1_RGF_IMF_Ori",
-      "levelName": "Mestia_SKIRM_v1_RGF_IMF_Ori",
-      "fName": "Mestia_SKIRM_v1_RGF_IMF_Ori",
+      "levelName": "Mestia",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -1067,8 +1039,7 @@
     {
       "Name": "GooseBay_RAAS_v1_CAF_RGF_Ori",
       "rawName": "GooseBay_RAAS_v1_CAF_RGF_Ori",
-      "levelName": "GooseBay_RAAS_v1_CAF_RGF_Ori",
-      "fName": "GooseBay_RAAS_v1_CAF_RGF_Ori",
+      "levelName": "GooseBay",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -1105,8 +1076,7 @@
     {
       "Name": "GooseBay_SKIRM_v1_CAF_RGF_Ori",
       "rawName": "GooseBay_SKIRM_v1_CAF_RGF_Ori",
-      "levelName": "GooseBay_SKIRM_v1_CAF_RGF_Ori",
-      "fName": "GooseBay_SKIRM_v1_CAF_RGF_Ori",
+      "levelName": "GooseBay",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -1143,8 +1113,7 @@
     {
       "Name": "FoolsRoad_AAS_v2_BAF_IMF_Ori",
       "rawName": "FoolsRoad_AAS_v2_BAF_IMF_Ori",
-      "levelName": "FoolsRoad_AAS_v2_BAF_IMF_Ori",
-      "fName": "FoolsRoad_AAS_v2_BAF_IMF_Ori",
+      "levelName": "FoolsRoad",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -1181,8 +1150,7 @@
     {
       "Name": "FoolsRoad_RAAS_v2_BAF_IMF_Ori",
       "rawName": "FoolsRoad_RAAS_v2_BAF_IMF_Ori",
-      "levelName": "FoolsRoad_RAAS_v2_BAF_IMF_Ori",
-      "fName": "FoolsRoad_RAAS_v2_BAF_IMF_Ori",
+      "levelName": "FoolsRoad",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",
@@ -1219,8 +1187,7 @@
     {
       "Name": "FoolsRoad_SKIRM_v1_USA_RGF_Ori",
       "rawName": "FoolsRoad_SKIRM_v1_USA_RGF_Ori",
-      "levelName": "FoolsRoad_SKIRM_v1_USA_RGF_Ori",
-      "fName": "FoolsRoad_SKIRM_v1_USA_RGF_Ori",
+      "levelName": "FoolsRoad",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "Day",

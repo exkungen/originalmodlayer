@@ -9,29 +9,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "USA",
-          "teamSetupName": "USA",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "INS",
-          "teamSetupName": "INS",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "USA",
+        "teamSetupName": "USA",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "INS",
+        "teamSetupName": "INS",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "Chora",
@@ -49,29 +47,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "USMC",
-          "teamSetupName": "USMC",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "INS",
-          "teamSetupName": "INS",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "USMC",
+        "teamSetupName": "USMC",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "INS",
+        "teamSetupName": "INS",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "Chora",
@@ -89,29 +85,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "USA",
-          "teamSetupName": "USA",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "INS",
-          "teamSetupName": "INS",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "USA",
+        "teamSetupName": "USA",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "INS",
+        "teamSetupName": "INS",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "Chora",
@@ -129,29 +123,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "BAF",
-          "teamSetupName": "BAF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "VDV",
-          "teamSetupName": "VDV",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "BAF",
+        "teamSetupName": "BAF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "VDV",
+        "teamSetupName": "VDV",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "Narva",
@@ -169,29 +161,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "BAF",
-          "teamSetupName": "BAF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "RGF",
-          "teamSetupName": "RGF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "BAF",
+        "teamSetupName": "BAF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "RGF",
+        "teamSetupName": "RGF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "Narva",
@@ -209,29 +199,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "USA",
-          "teamSetupName": "USA",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "RGF",
-          "teamSetupName": "RGF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "USA",
+        "teamSetupName": "USA",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "RGF",
+        "teamSetupName": "RGF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "Gorodok",
@@ -249,29 +237,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "USMC",
-          "teamSetupName": "USMC",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "VDV",
-          "teamSetupName": "VDV",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "USMC",
+        "teamSetupName": "USMC",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "VDV",
+        "teamSetupName": "VDV",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "Gorodok",
@@ -289,29 +275,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "USA",
-          "teamSetupName": "USA",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "RGF",
-          "teamSetupName": "RGF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "USA",
+        "teamSetupName": "USA",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "RGF",
+        "teamSetupName": "RGF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "Mutaha",
@@ -329,29 +313,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "RGF",
-          "teamSetupName": "RGF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "INS",
-          "teamSetupName": "INS",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "RGF",
+        "teamSetupName": "RGF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "INS",
+        "teamSetupName": "INS",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "Mutaha",
@@ -369,29 +351,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "RGF",
-          "teamSetupName": "RGF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "INS",
-          "teamSetupName": "INS",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "RGF",
+        "teamSetupName": "RGF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "INS",
+        "teamSetupName": "INS",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "Mutaha",
@@ -409,29 +389,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "USMC",
-          "teamSetupName": "USMC",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "INS",
-          "teamSetupName": "INS",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "USMC",
+        "teamSetupName": "USMC",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "INS",
+        "teamSetupName": "INS",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "Logar",
@@ -449,29 +427,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "USMC",
-          "teamSetupName": "USMC",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "INS",
-          "teamSetupName": "INS",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "USMC",
+        "teamSetupName": "USMC",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "INS",
+        "teamSetupName": "INS",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "Logar",
@@ -489,29 +465,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "VDV",
-          "teamSetupName": "VDV",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "IMF",
-          "teamSetupName": "IMF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "VDV",
+        "teamSetupName": "VDV",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "IMF",
+        "teamSetupName": "IMF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "Yehorivka",
@@ -529,29 +503,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "VDV",
-          "teamSetupName": "VDV",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "IMF",
-          "teamSetupName": "IMF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "VDV",
+        "teamSetupName": "VDV",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "IMF",
+        "teamSetupName": "IMF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "Yehorivka",
@@ -569,29 +541,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "VDV",
-          "teamSetupName": "VDV",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "IMF",
-          "teamSetupName": "IMF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "VDV",
+        "teamSetupName": "VDV",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "IMF",
+        "teamSetupName": "IMF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "Yehorivka",
@@ -609,29 +579,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "RGF",
-          "teamSetupName": "RGF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "INS",
-          "teamSetupName": "INS",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "RGF",
+        "teamSetupName": "RGF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "INS",
+        "teamSetupName": "INS",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "Kokan",
@@ -649,29 +617,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "RGF",
-          "teamSetupName": "RGF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "INS",
-          "teamSetupName": "INS",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "RGF",
+        "teamSetupName": "RGF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "INS",
+        "teamSetupName": "INS",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "Kokan",
@@ -689,29 +655,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "CAF",
-          "teamSetupName": "CAF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "RGF",
-          "teamSetupName": "RGF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "CAF",
+        "teamSetupName": "CAF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "RGF",
+        "teamSetupName": "RGF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "Manicouagan",
@@ -729,29 +693,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "USMC",
-          "teamSetupName": "USMC",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "RGF",
-          "teamSetupName": "RGF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "USMC",
+        "teamSetupName": "USMC",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "RGF",
+        "teamSetupName": "RGF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "Manicouagan",
@@ -769,29 +731,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "USA",
-          "teamSetupName": "USA",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "VDV",
-          "teamSetupName": "VDV",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "USA",
+        "teamSetupName": "USA",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "VDV",
+        "teamSetupName": "VDV",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "Manicouagan",
@@ -809,29 +769,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "USA",
-          "teamSetupName": "USA",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "VDV",
-          "teamSetupName": "VDV",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "USA",
+        "teamSetupName": "USA",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "VDV",
+        "teamSetupName": "VDV",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "Manicouagan",
@@ -849,29 +807,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "BAF",
-          "teamSetupName": "BAF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "RGF",
-          "teamSetupName": "RGF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "BAF",
+        "teamSetupName": "BAF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "RGF",
+        "teamSetupName": "RGF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "Skorpo",
@@ -889,29 +845,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "USA",
-          "teamSetupName": "USA",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "RGF",
-          "teamSetupName": "RGF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "USA",
+        "teamSetupName": "USA",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "RGF",
+        "teamSetupName": "RGF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "Harju",
@@ -929,29 +883,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "USMC",
-          "teamSetupName": "USMC",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "RGF",
-          "teamSetupName": "RGF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "USMC",
+        "teamSetupName": "USMC",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "RGF",
+        "teamSetupName": "RGF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "Harju",
@@ -969,29 +921,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "BAF",
-          "teamSetupName": "BAF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "VDV",
-          "teamSetupName": "VDV",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "BAF",
+        "teamSetupName": "BAF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "VDV",
+        "teamSetupName": "VDV",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "Harju",
@@ -1009,29 +959,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "BAF",
-          "teamSetupName": "BAF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "VDV",
-          "teamSetupName": "VDV",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "BAF",
+        "teamSetupName": "BAF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "VDV",
+        "teamSetupName": "VDV",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "Harju",
@@ -1049,29 +997,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "USA",
-          "teamSetupName": "USA",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "RGF",
-          "teamSetupName": "RGF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "USA",
+        "teamSetupName": "USA",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "RGF",
+        "teamSetupName": "RGF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "Mestia",
@@ -1089,29 +1035,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "RGF",
-          "teamSetupName": "RGF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "IMF",
-          "teamSetupName": "IMF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "RGF",
+        "teamSetupName": "RGF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "IMF",
+        "teamSetupName": "IMF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "Mestia",
@@ -1129,29 +1073,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "CAF",
-          "teamSetupName": "CAF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "RGF",
-          "teamSetupName": "RGF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "CAF",
+        "teamSetupName": "CAF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "RGF",
+        "teamSetupName": "RGF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "GooseBay",
@@ -1169,29 +1111,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "CAF",
-          "teamSetupName": "CAF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "RGF",
-          "teamSetupName": "RGF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "CAF",
+        "teamSetupName": "CAF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "RGF",
+        "teamSetupName": "RGF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "GooseBay",
@@ -1209,29 +1149,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "BAF",
-          "teamSetupName": "BAF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "IMF",
-          "teamSetupName": "IMF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "BAF",
+        "teamSetupName": "BAF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "IMF",
+        "teamSetupName": "IMF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "FoolsRoad",
@@ -1249,29 +1187,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "BAF",
-          "teamSetupName": "BAF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "IMF",
-          "teamSetupName": "IMF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "BAF",
+        "teamSetupName": "BAF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "IMF",
+        "teamSetupName": "IMF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "FoolsRoad",
@@ -1289,29 +1225,27 @@
       "lightingLevel": "",
       "lighting": "Day",
       "border": [],
-      "teamConfigs": {
-        "team1": {
-          "faction": "USA",
-          "teamSetupName": "USA",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        },
-        "team2": {
-          "faction": "RGF",
-          "teamSetupName": "RGF",
-          "tickets": 0,
-          "playerPercent": 50,
-          "disabledVeh": true,
-          "intelOnEnemy": 0,
-          "actions": 0,
-          "commander": true,
-          "vehicles": []
-        }
+      "team1": {
+        "faction": "USA",
+        "teamSetupName": "USA",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "RGF",
+        "teamSetupName": "RGF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
       },
       "type": "",
       "mapName": "FoolsRoad",
